@@ -1,5 +1,7 @@
 # Portfolio
 
+//See [Accessibility Skills](/path/to/page).
+
 About Me
 
 I am a detail-oriented Manual QA and Accessibility Tester focused on creating user experiences that are functional, inclusive, and reliable for everyone. My testing approach combines strong analytical thinking with hands-on accessibility validation, including keyboard navigation, screen reader compatibility, usability testing, and Section 508/WCAG compliance review.
